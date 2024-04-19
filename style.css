@@ -269,10 +269,14 @@ footer {
 }
 
 .attribution { 
-    font-size: 11px; text-align: center; 
+    font-size: 11px; 
+    text-align: center; 
+    position: relative;
+    bottom: 10px;
 }
 .attribution a { 
-    color: hsl(228, 45%, 44%); 
+    color: hsl(228, 92%, 9%); 
+    
 }
 
 @media (max-width:1291px) {
